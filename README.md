@@ -50,7 +50,7 @@ npm run dev
 ## Auth setup
 
 1. Use `openssl rand -base64 32` to generate NEXTAUTH_SECRET
-2. Add DB URL and SHADOW DB URL from Neon
+2. Add DB URL and SHADOW DB URL from Neon.tech (https://neon.tech/)
 3. Create a new project in console.cloud.google.com
 4. Click configure consent screen in API credentials page and click external
 5. Add an app name, do not upload logo, add authorized domain
